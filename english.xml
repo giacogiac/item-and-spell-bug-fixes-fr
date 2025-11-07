@@ -194,7 +194,6 @@
   <content contentuid="ha4c7b39fg38c5g4210gb4e0g278d5362b28e" version="1">This improvised grenade was handcrafted by skirmisher-devils to be used in infernal combat.</content>
   <content contentuid="h329c7c57g7bf8g4a6fg812dg8b3b5cf48e06" version="5">Explode in a powerful blast that ignites creatures with &lt;LSTag Type="Status" Tooltip="MAG_INFERNAL_BURNING"&gt;Infernal Burning&lt;/LSTag&gt;.</content>
   <content contentuid="h20e3e442g18e2g448dg9730g64b0f492110c" version="4">When you succeed a &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;, the caster receives &lt;LSTag Type="Status" Tooltip="MAG_INFERNAL_BURNING"&gt;Infernal Burning&lt;/LSTag&gt; for [1] turns.</content>
-  <content contentuid="hc74dc78fgf5b4g474cg8de7g9cb384832bf0" version="1">Fiendish Fire</content>
   <content contentuid="h5ca66d11g5387g4647ga373g5c443b9b8d0d" version="1">Upon consumption, you and surrounding allies regain &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt; equal to 1d20 plus your Constitution &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt;.</content>
   <content contentuid="h571ae7d4g7affg41b6gb73ag40a099e476d9" version="3">Kept from death's door by a brief magical boost. Gained [1] &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporary hit point(s)&lt;/LSTag&gt;.</content>
   <content contentuid="hffe4f11ag01fdg422agbbfeg619b1fabbe3b" version="2">Kept from death's door by a brief magical boost. Gained [1] &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporary hit point(s)&lt;/LSTag&gt;.</content>
@@ -228,8 +227,6 @@
   <content contentuid="he46d7cb1gc729g32b0g2e08g52c41bff3567" version="3">Soul Snare: Advantage</content>
   <content contentuid="hfa82ba44g0bd0ge939g733dg4a13ba83eac8" version="6">Gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; from catching a soul.</content>
   <content contentuid="h1824c5e6g549eg5246g4cfag6ad1b0d06444" version="1">Lasts until the end of your next turn.</content>
-  <content contentuid="hb8f59187gee03gc052gd307g030a3143a0a5" version="1">Reckless Attack</content>
-  <content contentuid="h679153e7g1950g36c1ga2c9g7d7588c257a6" version="1">Until your next turn, you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, but enemies also have Advantage against you.</content>
   <content contentuid="hca5ac95cg5a81gd962g55aag3cfb2bc1d033" version="1">Usable once per &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt; or &lt;LSTag Type="Spell" Tooltip="Shout_Wildshape_Panther"&gt;Wild Shape&lt;/LSTag&gt;.</content>
   <content contentuid="hafc10888g0217g7d1fg9352g043b25fb1945" version="4">Resummon Illusion</content>
   <content contentuid="haaffe289g165dg571eg26f7g009c2b649176" version="1">Helping Hand</content>
@@ -255,11 +252,8 @@
   <content contentuid="ha761ec88g8db7gb1fbg731egc2bc0f182cf4" version="7">Your recently cast spell has delayed finishing until your next turn, and will cost an extra action.</content>
   <content contentuid="had19cc55g8e6ag5bdeg4aa3gde33bf68e77d" version="3">Soul Snare: Advantage</content>
   <content contentuid="hccce897bg2ca6ga096g0303g16e46234d66a" version="5">Has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
-  <content contentuid="ha3bec940gd272gd62dg1355gcc6866bd4279" version="3">Lesser Infernal Retribution</content>
-  <content contentuid="haa476235g38c8g62b6g9c20g0c4f72fbd6a0" version="6">When you are hit by a foe within [1], it might take [2].</content>
   <content contentuid="h7ff68094g5f40g0040g62e9g45fcf8fd4bca" version="3">%%% EMPTY</content>
   <content contentuid="hf9c3c052gf94dg8ec7gd912g4dc7bdf3727e" version="3">%%% EMPTY</content>
-  <content contentuid="h3a9a42b2g730eg5770gfee5g446c79f883dd" version="1">Absorb Elements</content>
   <content contentuid="h3c5467c6g0177ge3cegd924g0d497b75ed5f" version="3">Must take a Long Rest.</content>
   <content contentuid="hffeee169g648bg4d2ag5f4fg46ee37018723" version="3">Must take a Long Rest.</content>
   <content contentuid="h8b1834c7g024bga25cg5671g7d048cf7b7a8" version="1">Must not already have Reckless Attack.</content>
@@ -271,14 +265,6 @@
   <content contentuid="h4f208022g2702ge42fgc9bdg1bd97eabf17e" version="1">The Tempest Domain gives you access to certain spells. These are &lt;LSTag Tooltip="AlwaysPrepared"&gt;Always Prepared&lt;/LSTag&gt;.</content>
   <content contentuid="h101b8dd4g02bdg9ff9gf546gd23f6b047ebd" version="1">Nature Domain Spells</content>
   <content contentuid="h92af0637gf727ge308gc7bdgd04fa076230e" version="1">The Nature Domain gives you access to certain spells. These are &lt;LSTag Tooltip="AlwaysPrepared"&gt;Always Prepared&lt;/LSTag&gt;.</content>
-  <content contentuid="h638e0e83g35eag04b2g1ab8g46137966b804" version="1">Improved Warlock Spells</content>
-  <content contentuid="h721682d3g8c5fg1db2g38a0g798e9f249c0a" version="1">Most of your Warlock spells have become stronger.</content>
-  <content contentuid="h27c738d7g4fbbg1c25gc38eg656f4c301cab" version="1">Improved Warlock Spells</content>
-  <content contentuid="h1786dd04g4bd5g7be6g947fgce9ff94a73c5" version="1">Most of your Warlock spells have become stronger.</content>
-  <content contentuid="h46ca1cd7g8593gd3dbg1411gc97c0aa47be7" version="1">Improved Warlock Spells</content>
-  <content contentuid="h014dd0a0g1d42gc5abg780cgc3a53077d287" version="1">Most of your Warlock spells have become stronger.</content>
-  <content contentuid="hcd077f60gc2c5g1d25ga59eg499ab6182c89" version="1">Improved Warlock Spells</content>
-  <content contentuid="h0e442d11g8127g240bg0200g5927e59d731a" version="1">Most of your Warlock spells have become stronger.</content>
   <content contentuid="h03cc9fa8g3f75ga397g1ff6gfe47fb474dbe" version="1">Arcane Battery: Depleted</content>
   <content contentuid="h6eef4709g8220g8288g1297g66dd54a1c6de" version="1">The power granted by this staff is depleted. A &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt; will restore it.</content>
   <content contentuid="h49f39c2cg6073g5b62ga3dcg264ddf0952f2" version="1">Mage Hand Legerdemain</content>
@@ -287,23 +273,5 @@
   <content contentuid="ha517ed3cg1fdcg3d52g5537gc078e19d423e" version="1">Flesh to Gold: Saving Throw</content>
   <content contentuid="hf73af3ccgb738gf6eagdfefg7568ca1e94bd" version="1">The target will &lt;LSTag Type="Status" Tooltip="TWN_TOLLHOUSE_GOLDIFIED"&gt;Turn to Gold&lt;/LSTag&gt; if it does not succeed [1] &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
   <content contentuid="h36de2fd0g3688g989cgb672g423b0387d118" version="2">Sussur Blade</content>
-  <content contentuid="hb8aae8d9g13fdgb9f7gf0f1g471fd1402091" version="1">Target must succeed a Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;. On failure, they will be &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt;.</content>
-  <content contentuid="h4e340ff0gf647gcf42g9c38ga20486cdee2c" version="1">Hideous Laughter</content>
-  <content contentuid="h450ccc2bge908g21f8gd0eeg7f77cc07a2b0" version="1">Affected entity can't move or take actions, bonus actions, or reactions, and has &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on Strength and Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;. Attacks made within [1] of it have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; against it.&lt;br&gt;&lt;br&gt;At the end of its turn or when it takes damage, the entity can try to shake off the effect. </content>
-  <content contentuid="h90b07f1fg2f00gb608g69d2g39296471aa8f" version="1">Turned</content>
-  <content contentuid="hcd27488egb8fdg5910g5ffag57e6c7192d7b" version="1">The affected entity must move away from the creature that Turned it.&lt;br&gt;&lt;br&gt;It can't take actions, bonus actions, or reactions other than &lt;LSTag Type="Spell" Tooltip="Shout_Dash"&gt;Dash&lt;/LSTag&gt;, or try to escape an effect that prevents movement.&lt;br&gt;&lt;br&gt;Ends upon taking damage.</content>
-  <content contentuid="hc7d926bfgc0b6gaa74g5c25ga33338c31f86" version="1">Stunned</content>
-  <content contentuid="h8f9bb1d2gd117g7a1cg9ae5gf5554c12de14" version="1">Can't move or take actions, bonus actions, or reactions.&lt;br&gt;&lt;br&gt;Moreover, the creature automatically fails Strength and Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;, and &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against it have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;.</content>
-  <content contentuid="hbc042c31g9389gaa6bge0f4g439975e4667c" version="1">Stormheart Nova</content>
-  <content contentuid="h97a06d16gf320g8993g9b58g32ab28365edd" version="1">Blast the entire arena with an explosion of lightning, possibly &lt;LSTag Type="Status" Tooltip="SHOCKED"&gt;Shocking&lt;/LSTag&gt; your foes.</content>
-  <content contentuid="h407502f2gafc2g8330g6fd7gae3a54238a1e" version="1">Shield Master: Block</content>
-  <content contentuid="h5d8fedeeg2c7cge62ag2927gdcaaa36f2f9b" version="1">Uncanny Dodge</content>
-  <content contentuid="hdf43d485g35acg0505g9390gc9f8d0b1fde3" version="1">Absorb Elements</content>
-  <content contentuid="h573d4266gc0cdg7117g2375gbd8b055c0b0d" version="1">Dampen Elements</content>
-  <content contentuid="hd149fdfcg9f65ged4dgce65g68f386f2a450" version="1">Poisonous Synergy</content>
-  <content contentuid="hc8b0017egb821gf603g0603g6b58824997d6" version="1">Infernal Burning</content>
-  <content contentuid="hbd24e0c9ge45cgd941g8c65g220f425fe02e" version="1">Wall of Fire</content>
-  <content contentuid="h897548f8g6b15g8eabgdb13g4849d0ccf254" version="1">Wall of Thorns</content>
-  <content contentuid="h795bde04g1f13g695dge7a3g321c42674916" version="1">Blade Barrier</content>
   <content contentuid="h853b555ege835g49e1g9e27g74680e24aef4" version="4">You've trained to strike swift and true. When you land a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; with a melee or throw attack, you roll an extra damage die as well as the normal additional critical dice.</content>
 </contentList>

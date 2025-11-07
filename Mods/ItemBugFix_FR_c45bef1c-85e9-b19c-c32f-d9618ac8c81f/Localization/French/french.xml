@@ -194,7 +194,6 @@
     <content contentuid="ha4c7b39fg38c5g4210gb4e0g278d5362b28e" version="1">Grenade de fortune conçue par des diables escarmoucheurs pour le combat infernal.</content>
     <content contentuid="h329c7c57g7bf8g4a6fg812dg8b3b5cf48e06" version="5">Puissante déflagration qui met le feu aux créatures, leur infligeant &lt;LSTag Type="Status" Tooltip="MAG_INFERNAL_BURNING"&gt;Brûlure infernale&lt;/LSTag&gt;.</content>
     <content contentuid="h20e3e442g18e2g448dg9730g64b0f492110c" version="4">Quand vous réussissez un &lt;LSTag Tooltip="SavingThrow"&gt;jet de sauvegarde&lt;/LSTag&gt;, le lanceur subit &lt;LSTag Type="Status" Tooltip="MAG_INFERNAL_BURNING"&gt;Brûlure infernale&lt;/LSTag&gt; pendant [1] tours.</content>
-    <content contentuid="hc74dc78fgf5b4g474cg8de7g9cb384832bf0" version="1">Feu diabolique</content>
     <content contentuid="h5ca66d11g5387g4647ga373g5c443b9b8d0d" version="1">Lorsque vous buvez cette potion, vous et vos alliés proches récupérez un nombre de &lt;LSTag Tooltip="HitPoints"&gt;points de vie&lt;/LSTag&gt; égal à 1d20 + votre &lt;LSTag Tooltip="AbilityModifier"&gt;modificateur&lt;/LSTag&gt; de Constitution.</content>
     <content contentuid="h571ae7d4g7affg41b6gb73ag40a099e476d9" version="3">Mort empêchée par un léger surcroît d'énergie magique. Gain de [1] &lt;LSTag Tooltip="TemporaryHitPoints"&gt;point(s) de vie temporaire(s)&lt;/LSTag&gt;.</content>
     <content contentuid="hffe4f11ag01fdg422agbbfeg619b1fabbe3b" version="2">Mort empêchée par un léger surcroît d'énergie magique. Gain de [1] &lt;LSTag Tooltip="TemporaryHitPoints"&gt;point(s) de vie temporaire(s)&lt;/LSTag&gt;.</content>
@@ -228,8 +227,6 @@
     <content contentuid="he46d7cb1gc729g32b0g2e08g52c41bff3567" version="3">Capture d'âme : Avantage</content>
     <content contentuid="hfa82ba44g0bd0ge939g733dg4a13ba83eac8" version="6">Vous bénéficiez d'un &lt;LSTag Tooltip="Advantage"&gt;avantage&lt;/LSTag&gt; sur vos &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt; et aux &lt;LSTag Tooltip="SavingThrow"&gt;jets de sauvegarde&lt;/LSTag&gt; pour avoir capturer une âme.</content>
     <content contentuid="h1824c5e6g549eg5246g4cfag6ad1b0d06444" version="1">Cet effet dure jusqu'à la fin de votre prochain tour.</content>
-    <content contentuid="hb8f59187gee03gc052gd307g030a3143a0a5" version="1">Témérité</content>
-    <content contentuid="h679153e7g1950g36c1ga2c9g7d7588c257a6" version="1">Jusqu'à votre prochain tour, vous bénéficiez d'un &lt;LSTag Tooltip="Advantage"&gt;avantage&lt;/LSTag&gt; sur vos &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt;, mais ceux des ennemis bénéficient eux aussi d'un avantage contre vous.</content>
     <content contentuid="hca5ac95cg5a81gd962g55aag3cfb2bc1d033" version="1">Utilisable une fois entre deux &lt;LSTag Tooltip="ShortRest"&gt;courts repos&lt;/LSTag&gt; ou &lt;LSTag Type="Spell" Tooltip="Shout_Wildshape_Panther"&gt;forme sauvage&lt;/LSTag&gt;.</content>
     <content contentuid="hafc10888g0217g7d1fg9352g043b25fb1945" version="4">Rénvocation d'Illusion</content>
     <content contentuid="haaffe289g165dg571eg26f7g009c2b649176" version="1">Coup de main (Aider)</content>
@@ -255,11 +252,8 @@
     <content contentuid="ha761ec88g8db7gb1fbg731egc2bc0f182cf4" version="7">Votre sort récemment lancé a retardé son achèvement jusqu'à votre prochain tour, et coûtera une action supplémentaire.</content>
     <content contentuid="had19cc55g8e6ag5bdeg4aa3gde33bf68e77d" version="3">Capture d'âme : Avantage</content>
     <content contentuid="hccce897bg2ca6ga096g0303g16e46234d66a" version="5">Bénéficie d'un &lt;LSTag Tooltip="Advantage"&gt;avantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt; et &lt;LSTag Tooltip="SavingThrow"&gt;jets de sauvegarde&lt;/LSTag&gt;.</content>
-    <content contentuid="ha3bec940gd272gd62dg1355gcc6866bd4279" version="3">Représailles infernales limitées</content>
-    <content contentuid="haa476235g38c8g62b6g9c20g0c4f72fbd6a0" version="6">Quand vous vous faites toucher par un adversaire se trouvant à moins de [1], il peut subir [2].</content>
     <content contentuid="h7ff68094g5f40g0040g62e9g45fcf8fd4bca" version="3">%%% EMPTY</content>
     <content contentuid="hf9c3c052gf94dg8ec7gd912g4dc7bdf3727e" version="3">%%% EMPTY</content>
-    <content contentuid="h3a9a42b2g730eg5770gfee5g446c79f883dd" version="1">Absorption des éléments</content>
     <content contentuid="h3c5467c6g0177ge3cegd924g0d497b75ed5f" version="3">Long repos nécessaire.</content>
     <content contentuid="hffeee169g648bg4d2ag5f4fg46ee37018723" version="3">Long repos nécessaire.</content>
     <content contentuid="h8b1834c7g024bga25cg5671g7d048cf7b7a8" version="1">Ne doit pas déjà avoir Témérité.</content>
@@ -271,14 +265,6 @@
     <content contentuid="h4f208022g2702ge42fgc9bdg1bd97eabf17e" version="1">Le domaine de la Tempête vous donne accès à certains sorts. Ces derniers sont &lt;LSTag Tooltip="AlwaysPrepared"&gt;toujours préparés&lt;/LSTag&gt;.</content>
     <content contentuid="h101b8dd4g02bdg9ff9gf546gd23f6b047ebd" version="1">Sorts du domaine de la Nature</content>
     <content contentuid="h92af0637gf727ge308gc7bdgd04fa076230e" version="1">Le domaine de la Nature vous donne accès à certains sorts. Ces derniers sont &lt;LSTag Tooltip="AlwaysPrepared"&gt;toujours préparés&lt;/LSTag&gt;.</content>
-    <content contentuid="h638e0e83g35eag04b2g1ab8g46137966b804" version="1">Sorts d'occultiste améliorés</content>
-    <content contentuid="h721682d3g8c5fg1db2g38a0g798e9f249c0a" version="1">La plupart de vos sorts d'occultiste deviennent plus puissants.</content>
-    <content contentuid="h27c738d7g4fbbg1c25gc38eg656f4c301cab" version="1">Sorts d'occultiste améliorés</content>
-    <content contentuid="h1786dd04g4bd5g7be6g947fgce9ff94a73c5" version="1">La plupart de vos sorts d'occultiste deviennent plus puissants.</content>
-    <content contentuid="h46ca1cd7g8593gd3dbg1411gc97c0aa47be7" version="1">Sorts d'occultiste améliorés</content>
-    <content contentuid="h014dd0a0g1d42gc5abg780cgc3a53077d287" version="1">La plupart de vos sorts d'occultiste deviennent plus puissants.</content>
-    <content contentuid="hcd077f60gc2c5g1d25ga59eg499ab6182c89" version="1">Sorts d'occultiste améliorés</content>
-    <content contentuid="h0e442d11g8127g240bg0200g5927e59d731a" version="1">La plupart de vos sorts d'occultiste deviennent plus puissants.</content>
     <content contentuid="h03cc9fa8g3f75ga397g1ff6gfe47fb474dbe" version="1">Batterie arcanique : emplacement de sort utilisé</content>
     <content contentuid="h6eef4709g8220g8288g1297g66dd54a1c6de" version="1">L'&lt;LSTag Tooltip="SpellSlot"&gt;emplacement de sort&lt;/LSTag&gt; que vous confère ce baton a été utilisé. Un &lt;LSTag Tooltip="LongRest"&gt;long repos&lt;/LSTag&gt; vous permettra de le récupérer.</content>
     <content contentuid="h49f39c2cg6073g5b62ga3dcg264ddf0952f2" version="1">Passe-passe à distance</content>
@@ -287,23 +273,6 @@
     <content contentuid="ha517ed3cg1fdcg3d52g5537gc078e19d423e" version="1">Transmutation de la chair en or : Jet de sauvegarde</content>
     <content contentuid="hf73af3ccgb738gf6eagdfefg7568ca1e94bd" version="1">La cible finit par se retrouver &lt;LSTag Type="Status" Tooltip="TWN_TOLLHOUSE_GOLDIFIED"&gt;transformée en or&lt;/LSTag&gt; si elle ne réussit pas [1] &lt;LSTag Tooltip="SavingThrow"&gt;jets de sauvegarde&lt;/LSTag&gt;.</content>
     <content contentuid="h36de2fd0g3688g989cgb672g423b0387d118" version="2">Lame de susurreau</content>
-    <content contentuid="hb8aae8d9g13fdgb9f7gf0f1g471fd1402091" version="1">Réduit les cibles au &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;silence&lt;/LSTag&gt; en cas de coup au but.</content>
-    <content contentuid="h4e340ff0gf647gcf42g9c38ga20486cdee2c" version="1">Fou rire</content>
-    <content contentuid="h450ccc2bge908g21f8gd0eeg7f77cc07a2b0" version="1">L'entité affectée est incapable de se déplacer ou d'effectuer la moindre action, action bonus ou réaction. De plus, elle subit un &lt;LSTag Tooltip="Disadvantage"&gt;désavantage&lt;/LSTag&gt; sur ses &lt;LSTag Tooltip="SavingThrow"&gt;jets de sauvegarde&lt;/LSTag&gt; de Force ou de Dextérité, et les attaques portées à moins de [1] de distance bénéficient d'un &lt;LSTag Tooltip="Advantage"&gt;avantage&lt;/LSTag&gt; contre elle.&lt;br&gt;&lt;br&gt;À la fin de son tour ou lorsqu'elle subit des dégâts, l'entité peut tenter de se libérer de l'effet.</content>
-    <content contentuid="h90b07f1fg2f00gb608g69d2g39296471aa8f" version="1">Effrayé</content>
-    <content contentuid="hcd27488egb8fdg5910g5ffag57e6c7192d7b" version="1">L'entité affectée doit s'éloigner de la créature qui l'a renvoyée.&lt;br&gt;&lt;br&gt;Elle ne peut pas effectuer d'actions, d'actions bonus ou de réactions autres que &lt;LSTag Type="Spell" Tooltip="Shout_Dash"&gt;Foncer&lt;/LSTag&gt;, ou pour essayer d'échapper à un effet empêchant les déplacements.&lt;br&gt;&lt;br&gt;L'effet se dissipe dès que la victime subit des dégâts.</content>
-    <content contentuid="hc7d926bfgc0b6gaa74g5c25ga33338c31f86" version="1">Étourdi</content>
-    <content contentuid="h8f9bb1d2gd117g7a1cg9ae5gf5554c12de14" version="1">Incapable de se déplacer ou d'effectuer des actions, des actions bonus ou des réactions.&lt;br&gt;&lt;br&gt;De plus, elle rate automatiquement ses &lt;LSTag Tooltip="SavingThrow"&gt;jets de sauvegarde&lt;/LSTag&gt; de Force et de Dextérité, et les &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt; la prenant pour cible bénéficient d'un &lt;LSTag Tooltip="Advantage"&gt;avantage&lt;/LSTag&gt;.</content>
-    <content contentuid="hbc042c31g9389gaa6bge0f4g439975e4667c" version="1">Nova du cœur des tempêtes</content>
-    <content contentuid="h97a06d16gf320g8993g9b58g32ab28365edd" version="1">Génère une explosion de foudre drapant toute une zone, qui a une chance d'&lt;LSTag Type="Status" Tooltip="SHOCKED"&gt;électrocuter&lt;/LSTag&gt; les adversaires.</content>
-    <content contentuid="h407502f2gafc2g8330g6fd7gae3a54238a1e" version="1">Maître des boucliers : Blocage</content>
-    <content contentuid="h5d8fedeeg2c7cge62ag2927gdcaaa36f2f9b" version="1">Esquive instinctive</content>
-    <content contentuid="hdf43d485g35acg0505g9390gc9f8d0b1fde3" version="1">Absorption des éléments</content>
-    <content contentuid="h573d4266gc0cdg7117g2375gbd8b055c0b0d" version="1">Atténuation des éléments</content>
-    <content contentuid="hd149fdfcg9f65ged4dgce65g68f386f2a450" version="1">Vénéneuse synergie</content>
-    <content contentuid="hc8b0017egb821gf603g0603g6b58824997d6" version="1">Brûlure infernale</content>
-    <content contentuid="hbd24e0c9ge45cgd941g8c65g220f425fe02e" version="1">Mur de feu</content>
-    <content contentuid="h897548f8g6b15g8eabgdb13g4849d0ccf254" version="1">Mur d'épines</content>
-    <content contentuid="h795bde04g1f13g695dge7a3g321c42674916" version="1">Barrière de lames</content>
     <content contentuid="h853b555ege835g49e1g9e27g74680e24aef4" version="4">Vous frappez vite et fort. Quand vous réussissez un &lt;LSTag Tooltip="CriticalHit"&gt;coup critique&lt;/LSTag&gt; à l'aide d'une attaque au corps à corps ou d'une attaque de lancer, vous avez droit à un dé de dégâts supplémentaire, en plus de ceux du critique.</content>
+    <content contentuid="h30df09d8g9eb9g47f5gb0f6gc4964d40cbc2" version="9">L'entité affectée bénéficie d'un bonus de [1] aux &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt; pour chaque tour restant. Elle éclaire également vivement tout autour d'elle.&lt;br&gt;&lt;br&gt;La durée est réduite de [2] chaque fois que l'entité attaque.</content>
 </contentList>
