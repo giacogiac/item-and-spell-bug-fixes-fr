@@ -145,7 +145,6 @@
   <content contentuid="h157d67cagd0c8g4fa0gab5ag7e3d8f7f65f2" version="2">Wielder has [1] bonus to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and mental &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
   <content contentuid="h6b99cae3g2330g4975g8c0eg94757f890b4f" version="2">Enemies within [1] of range have [2] penalty to mental &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;, and when attacked receive an additional [3] damage.</content>
   <content contentuid="h8b5127fdge290g4e90g8569gb984da632160" version="2">All allies within [1] of range have [2] bonus to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and mental &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
-  <content contentuid="h2ca5b313g0e08g4b0ega14bg01a0fe956de2" version="2">Affected entity regains [1] health every round of combat.&lt;br&gt;&lt;br&gt;&lt;LSTag Tooltip="MovementSpeed"&gt;Movement speed&lt;/LSTag&gt; increased by [2].</content>
   <content contentuid="h25df9d03gfe18g44edg8266g6cfea2ea10d6" version="3">Affected entity and its allies deal an additional [1], as long as it isn't &lt;LSTag Type="Status" Tooltip="INCAPACITATED"&gt;Incapacitated&lt;/LSTag&gt;. The entity's &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; is also increased by [2].  Nearby enemies receive &lt;LSTag Type="Status" Tooltip="DRIDER_LEADERSHIP_ENEMY"&gt;Spindleweb Skepticism&lt;/LSTag&gt;.</content>
   <content contentuid="h6bede324geef1g468fga702ge3f3b3fadc57" version="2">Allied undead and fiends within [1] are &lt;LSTag Tooltip="Resistant"&gt;Resistant&lt;/LSTag&gt; to Bludgeoning, Slashing, and Piercing damage.</content>
   <content contentuid="h294980f7gc2f6g416dg8849gc3b99790abf0" version="3">Hostile creatures in a radius of [1] take [2] at the start of their turn.</content>
@@ -258,10 +257,6 @@
   <content contentuid="hccce897bg2ca6ga096g0303g16e46234d66a" version="5">Has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
   <content contentuid="ha3bec940gd272gd62dg1355gcc6866bd4279" version="3">Lesser Infernal Retribution</content>
   <content contentuid="haa476235g38c8g62b6g9c20g0c4f72fbd6a0" version="6">When you are hit by a foe within [1], it might take [2].</content>
-  <content contentuid="h7ed5c1b7gbb3fg7984g91b8gf507041784dc" version="3">Arcane Echomalefaction</content>
-  <content contentuid="h05a5dad4gb531gce5dg41e9g80e86778707c" version="3">Coldbrim Chill</content>
-  <content contentuid="h6b9dd15dg6cbag6e82gab8ag4458d22e2520" version="4">Illusion</content>
-  <content contentuid="h54050388g652bgdb62g975fg37c70fa43add" version="3">%%% Unlock action to move illusion</content>
   <content contentuid="h7ff68094g5f40g0040g62e9g45fcf8fd4bca" version="3">%%% EMPTY</content>
   <content contentuid="hf9c3c052gf94dg8ec7gd912g4dc7bdf3727e" version="3">%%% EMPTY</content>
   <content contentuid="h3a9a42b2g730eg5770gfee5g446c79f883dd" version="1">Absorb Elements</content>
@@ -307,4 +302,7 @@
   <content contentuid="h573d4266gc0cdg7117g2375gbd8b055c0b0d" version="1">Dampen Elements</content>
   <content contentuid="hd149fdfcg9f65ged4dgce65g68f386f2a450" version="1">Poisonous Synergy</content>
   <content contentuid="hc8b0017egb821gf603g0603g6b58824997d6" version="1">Infernal Burning</content>
+  <content contentuid="hbd24e0c9ge45cgd941g8c65g220f425fe02e" version="1">Wall of Fire</content>
+  <content contentuid="h897548f8g6b15g8eabgdb13g4849d0ccf254" version="1">Wall of Thorns</content>
+  <content contentuid="h795bde04g1f13g695dge7a3g321c42674916" version="1">Blade Barrier</content>
 </contentList>

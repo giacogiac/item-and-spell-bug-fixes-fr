@@ -145,7 +145,6 @@
     <content contentuid="h157d67cagd0c8g4fa0gab5ag7e3d8f7f65f2" version="2">Le porteur bénéficie d'un bonus de +[1] aux &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt; et aux jets de sauvegarde mentaux.</content>
     <content contentuid="h6b99cae3g2330g4975g8c0eg94757f890b4f" version="2">Les ennemis dans un rayon de [1] subissent un malus de -[2] aux jets de sauvegarde mentaux, et subissent [3] dégâts supplémentaires lorsqu'ils sont attaqués.</content>
     <content contentuid="h8b5127fdge290g4e90g8569gb984da632160" version="2">Tous les alliés à moins de [1] bénéficient d'un bonus de +[2] aux &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt; et aux jets de sauvegarde mentaux.</content>
-    <content contentuid="h2ca5b313g0e08g4b0ega14bg01a0fe956de2" version="2">L'entité affectée récupère [1] de santé à chaque round de combat.&lt;br&gt;&lt;br&gt;Sa &lt;LSTag Tooltip="MovementSpeed"&gt;vitesse de déplacement&lt;/LSTag&gt; augmente de [2].</content>
     <content contentuid="h25df9d03gfe18g44edg8266g6cfea2ea10d6" version="3">L'entité affectée et ses alliés infligent [1] supplémentaires tant qu'elle n'est pas &lt;LSTag Type="Status" Tooltip="INCAPACITATED"&gt;neutralisée&lt;/LSTag&gt;. Sa &lt;LSTag Tooltip="MovementSpeed"&gt;vitesse de déplacement&lt;/LSTag&gt; augmente aussi de [2]. Les ennemis proches subissent &lt;LSTag Type="Status" Tooltip="DRIDER_LEADERSHIP_ENEMY"&gt;Scepticisme arachnide&lt;/LSTag&gt;.</content>
     <content contentuid="h6bede324geef1g468fga702ge3f3b3fadc57" version="2">Les morts-vivants et fiélons alliés à moins de [1] bénéficient d'une &lt;LSTag Tooltip="Resistant"&gt;résistance&lt;/LSTag&gt; aux dégâts contondants, tranchants et perforants.</content>
     <content contentuid="h294980f7gc2f6g416dg8849gc3b99790abf0" version="3">Les créatures hostiles dans un rayon de [1] subissent [2] au début de leur tour.</content>
@@ -258,10 +257,6 @@
     <content contentuid="hccce897bg2ca6ga096g0303g16e46234d66a" version="5">Bénéficie d'un &lt;LSTag Tooltip="Advantage"&gt;avantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt; et &lt;LSTag Tooltip="SavingThrow"&gt;jets de sauvegarde&lt;/LSTag&gt;.</content>
     <content contentuid="ha3bec940gd272gd62dg1355gcc6866bd4279" version="3">Représailles infernales limitées</content>
     <content contentuid="haa476235g38c8g62b6g9c20g0c4f72fbd6a0" version="6">Quand vous vous faites toucher par un adversaire se trouvant à moins de [1], il peut subir [2].</content>
-    <content contentuid="h7ed5c1b7gbb3fg7984g91b8gf507041784dc" version="3">Écho arcanique</content>
-    <content contentuid="h05a5dad4gb531gce5dg41e9g80e86778707c" version="3">Froid de la couronne glaçante</content>
-    <content contentuid="h6b9dd15dg6cbag6e82gab8ag4458d22e2520" version="4">Illusion</content>
-    <content contentuid="h54050388g652bgdb62g975fg37c70fa43add" version="3">%%% Unlock action to move illusion</content>
     <content contentuid="h7ff68094g5f40g0040g62e9g45fcf8fd4bca" version="3">%%% EMPTY</content>
     <content contentuid="hf9c3c052gf94dg8ec7gd912g4dc7bdf3727e" version="3">%%% EMPTY</content>
     <content contentuid="h3a9a42b2g730eg5770gfee5g446c79f883dd" version="1">Absorption des éléments</content>
@@ -307,4 +302,7 @@
     <content contentuid="h573d4266gc0cdg7117g2375gbd8b055c0b0d" version="1">Atténuation des éléments</content>
     <content contentuid="hd149fdfcg9f65ged4dgce65g68f386f2a450" version="1">Vénéneuse synergie</content>
     <content contentuid="hc8b0017egb821gf603g0603g6b58824997d6" version="1">Brûlure infernale</content>
+    <content contentuid="hbd24e0c9ge45cgd941g8c65g220f425fe02e" version="1">Mur de feu</content>
+    <content contentuid="h897548f8g6b15g8eabgdb13g4849d0ccf254" version="1">Mur d'épines</content>
+    <content contentuid="h795bde04g1f13g695dge7a3g321c42674916" version="1">Barrière de lames</content>
 </contentList>
