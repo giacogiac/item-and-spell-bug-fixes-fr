@@ -274,5 +274,6 @@
     <content contentuid="hf73af3ccgb738gf6eagdfefg7568ca1e94bd" version="1">La cible finit par se retrouver &lt;LSTag Type="Status" Tooltip="TWN_TOLLHOUSE_GOLDIFIED"&gt;transformée en or&lt;/LSTag&gt; si elle ne réussit pas [1] &lt;LSTag Tooltip="SavingThrow"&gt;jets de sauvegarde&lt;/LSTag&gt;.</content>
     <content contentuid="h36de2fd0g3688g989cgb672g423b0387d118" version="2">Lame de susurreau</content>
     <content contentuid="h853b555ege835g49e1g9e27g74680e24aef4" version="4">Vous frappez vite et fort. Quand vous réussissez un &lt;LSTag Tooltip="CriticalHit"&gt;coup critique&lt;/LSTag&gt; à l'aide d'une attaque au corps à corps ou d'une attaque de lancer, vous avez droit à un dé de dégâts supplémentaire, en plus de ceux du critique.</content>
+    <!-- French exclusive fixes -->
     <content contentuid="h30df09d8g9eb9g47f5gb0f6gc4964d40cbc2" version="9">L'entité affectée bénéficie d'un bonus de [1] aux &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt; pour chaque tour restant. Elle éclaire également vivement tout autour d'elle.&lt;br&gt;&lt;br&gt;La durée est réduite de [2] chaque fois que l'entité attaque.</content>
 </contentList>
