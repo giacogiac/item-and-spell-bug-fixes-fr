@@ -305,4 +305,5 @@
   <content contentuid="hbd24e0c9ge45cgd941g8c65g220f425fe02e" version="1">Wall of Fire</content>
   <content contentuid="h897548f8g6b15g8eabgdb13g4849d0ccf254" version="1">Wall of Thorns</content>
   <content contentuid="h795bde04g1f13g695dge7a3g321c42674916" version="1">Blade Barrier</content>
+  <content contentuid="h853b555ege835g49e1g9e27g74680e24aef4" version="4">You've trained to strike swift and true. When you land a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;, you roll an extra damage die as well as the normal additional critical dice.</content>
 </contentList>
